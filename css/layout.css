@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100&family=Grenze:wght@100&family=Mansalva&family=Turret+Road:wght@200&display=swap');
+body {
+    background-color: #E9ECEF;
+    font-family: "Courier New";
+    font-size: 16px;
+}
+
+.btn {
+    background-color: #007BFF;
+    color: white;
+    padding: 0.7rem;
+    border-radius: 4px;
+}
+
+#showClicks {
+    display: none;
+}
